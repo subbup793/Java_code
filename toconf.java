@@ -1,5 +1,5 @@
 
-public class toconf {
+public class CountTypeOfCharacters {
 	public static void main(String[] args) {
 		int v = 0;
 		int c = 0;
